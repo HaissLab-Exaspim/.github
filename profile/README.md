@@ -1,13 +1,4 @@
 ## Exaspim at Pasteur 
-Haisslab's implementation of the Exaspim microscope made at AllenBrain and developped by Adam Glaser and associates.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pasteur's implementation in Florent Haiss's lab, of the Exaspim microscope made at AllenBrain and developped by Adam Glaser and associates.
+See [here](https://github.com/AllenNeuralDynamics/exa-spim-control/blob/main/doc/exaspim_setup.md) for their documentation on how to reproduce the setup.
+And [here](https://www.biorxiv.org/content/10.1101/2023.06.08.544277v3) for the access to their preprint publication of that system.
